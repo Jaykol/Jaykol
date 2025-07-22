@@ -19,6 +19,7 @@ I'm a tech professional with over 5 years of experience in IT systems administra
 ## 🛠️ Tools & Technologies
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=whiteTop)
+---
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykol&layout=compact&) Led the seamless relocation of IT systems (network, firewall, CCTV, access control) with zero downtime.
 - 🌐 **Wi-Fi Hotspot Deployment (2018–2023)** – Directed the installation of 3,500+ cloud-managed access points across underserved areas.
 - 🛠️ **CI/CD Learning Projects** *(coming soon)* – Follow my journey as I build and share DevOps projects using GitHub Actions, Docker, and Terraform.
